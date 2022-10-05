@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ²Æ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ÌæÈô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°©×Õ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ûÛİûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ íâ
+\
+java:S2130"AUse "Boolean.parseBoolean" for this string-to-boolean conversion.(…ãÀÀùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ­ò¤ûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ï‡Ş8·“¢¥¥0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÏŞƒ°8¸“¢¥¥0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½Ëm8¸“¢¥¥0
