@@ -100,8 +100,6 @@ H
 src/Part2/NumeroUno.java,4\c\4c937ed77f49ab3cad3073f20036e04a1fe8e37e
 L
 src/Part2/OnlyPositives.java,5\8\582120087640839eb3a2e2cdbc475ca4fd2430fc
-L
-src/Part2/PrintingStars.java,0\8\08ef0f7bbf7b48fb1f7ff1312b753a1457e50bd3
 [
 +src/Part2/RepeatingBreakingRemembering.java,3\3\33da4db3a9bc87b7f7d905b2831964be624537d7
 F
@@ -126,3 +124,51 @@ N
 src/Part2/SquareRootOfSum.java,e\b\eb71742b7b6e4432af8af5df0f6718d3c589371b
 G
 src/Part2/Greatest.java,a\c\acd9c421c65e9ae29fbda4413c5c42b5ded3b019
+O
+src/Part2/AverageOfNumbers.java,6\0\60ebb537f14c847c0b546c80387718839a7964c0
+w
+G.idea/sonarlint/issuestore/2/d/2d67dd00086d3319857066558e41f2ed812dde50,2\b\2b2da652b91ee689dbc6634e881f93a0e9aeb827
+O
+src/Part3/AverageOfTheList.java,7\8\78b12bec4e7003e17a533070e99ace6ce01d327f
+K
+src/Part3/FirstAndLast.java,5\4\54222a6a236f629fa735028960280252f4e72f41
+N
+src/Part3/SecondPlusThird.java,0\b\0b8e5f1aa88bd43a52dab3409f6105a71c3b31e3
+H
+src/Part3/SumMethod.java,3\4\349acbe2d65091755f797201d88142900ce90bd2
+I
+src/Part3/SumOfAList.java,8\7\87a472a2bb6deed55ac31a171644b999ab20bc5b
+K
+src/Part3/ThirdElement.java,b\3\b334aeca31123cdcd94cc6dbcf6fd29053433f83
+I
+src/Part3/RemoveLast.java,1\f\1f19a30b0ceedbea5bbd96c016270711f54fd279
+H
+src/Part3/OnTheList.java,9\4\94bf128b179b8d0ff2b34f62fc087b7f4f16571d
+P
+ src/Part3/GreatestInTheList.java,8\6\862f72cfd2c935520294f20bee90e4be1edcfedb
+F
+src/Part3/IndexOf.java,8\0\806c0b40e194157f2d089b93134976a38e716a37
+Q
+!src/Part3/IndexOfTheSmallest.java,5\a\5aed6e28063c17ee1a509cbb5bc58fdc46f24373
+I
+src/Part3/LastinList.java,e\1\e165b0ffc4402155a1562908f952db2c4bdee303
+G
+src/Part3/ListSize.java,6\1\610789e234d82608859f48cb488f21a06ee36f50
+O
+src/Part3/OnlyTheseNumbers.java,c\9\c95b843a1f3cde5c9eb9962cc3ca5c378b47ba0b
+K
+src/Part3/PrintInRange.java,9\9\99ec6d97fcc5c3daa91049f9b8e3a48d5011f6f0
+S
+#src/Part3/RememberTheseNumbers.java,f\6\f65bcf68c1ea743d5e6142c6808055d074150da5
+L
+src/Part2/PrintingStars.java,0\8\08ef0f7bbf7b48fb1f7ff1312b753a1457e50bd3
+O
+src/Part3/IndexWasNotFound.java,0\5\05e69f48a83ac69df084ebec89a6b9ddcf92877f
+J
+src/Part3/PrintNeatly.java,3\c\3c7884b928c42608456ac1f80f6ab536f6b06d1c
+I
+src/Part3/SumOfArray.java,7\5\75f942677aec4c5422c0b7cd25a5cc3d8474f5c9
+C
+src/Part3/Swap.java,7\e\7e7ec137b4815aa569d5e62a9d84fb432160c378
+K
+src/Part3/PrintInStars.java,d\4\d4b824f8b498df7dde580ce68c937c4c2df55606
