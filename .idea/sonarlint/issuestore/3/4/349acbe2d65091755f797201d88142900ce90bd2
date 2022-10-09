@@ -1,0 +1,10 @@
+
+}
+java:S1319"gThe type of "numbers" should be an interface such as "List" rather than the implementation "ArrayList".(ÀşÖè
+h
+java:S1104"MMake s a static final constant or non-public and provide accessors if needed.(ùÒ‚øÿÿÿÿ
+B
+java:S1444"'Make this "public static s" field final(ùÒ‚øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒŠó¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÈ€¹ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÈ€¹ûÿÿÿÿ
